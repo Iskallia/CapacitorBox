@@ -1,0 +1,15 @@
+[
+{
+  "modid": "capacitorbox",
+  "name": "CapacitorBox",
+  "description": "A mod that adds a block which generates a random EnderIO Capacitor.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jmilthedude"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [ "enderio" ]
+}
+]
